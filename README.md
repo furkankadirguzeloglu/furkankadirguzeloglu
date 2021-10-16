@@ -4,6 +4,6 @@
 [<img align="left" alt="Furkan Kadir Güzeloğlu | WebSite" width="50px" src="https://raw.githubusercontent.com/furkankadirguzeloglu/page-furkankadirguzeloglu/main/icons/website.png"/>][website]
 <br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=inc-Majdev&label=Profile%20views&color=lightgrey&style=flat-square" alt="inc-Majdev"/></p>
 
-[mail]: mailto:furkankadirguzeloglu.net
+[mail]: mailto:furkankadirguzeloglu@gmail.com
 [github]: https://github.com/furkankadirguzeloglu
 [website]: https://furkankadirguzeloglu.net
